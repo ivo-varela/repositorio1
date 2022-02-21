@@ -1,3 +1,6 @@
 21/2, 14:48 bla bla bla
 
 21/2, 15:18 faaa tardé una banda xd
+
+21/2, 16:26 ya conecté con el repositorio remoto, ahora voy a probar de hacer un nuevo commit
+y subirlo.
